@@ -74,7 +74,7 @@ Objectives:
 
 CHAPTER 2
 
-                                                Theoretical Background
+                                          Theoretical Background
 
 
 
@@ -134,7 +134,7 @@ To develop a concrete strength predictor, you need a strong theoretical backgrou
 CHAPTER 3
 
 
-                                               Experimental Work
+                                         Experimental Work
  
 
 
@@ -248,7 +248,7 @@ The code provided performs several tasks related to predictive modeling of concr
 8.	Hyperparameter Tuning: The code uses default hyperparameters for both Random Forest and AdaBoost models. Fine-tuning hyperparameters through techniques like grid search or random search could further improve model performance.
 
 	
-                                     Results
+                                         RESULTS
 
 
 
@@ -297,7 +297,7 @@ Economics significantly influences various aspects of human behavior and societa
 
 
 
-                          Insights
+                                          INSIGHTS
 
 
 
@@ -347,7 +347,7 @@ Economic Factor Correlations
 Overall, these insights highlight the complex interplay of demographic factors like gender, age, and generational differences, as well as potential economic influences on suicide rates. While economic factors show some correlations, their impact appears relatively weak compared to demographic variables. Targeted interventions addressing specific high-risk groups, such as middle-aged men and the Silent generation, and promoting mental health support could be crucial in suicide prevention efforts.
 
 
-                                                            CONCLUSION
+                                          CONCLUSION
 
 The data and visualizations provide a comprehensive overview of suicide trends, demographic patterns, and potential correlations with economic factors. The declining trend in total suicides and suicides per 100k population over the past two decades is an encouraging sign, suggesting that suicide prevention efforts and mental health initiatives may have been effective in reducing the global burden of suicide. However, the insights also highlight the need for a nuanced and targeted approach, as demographic factors like gender, age, and generational differences play a significant role in determining suicide risk. The striking gender disparity, with males accounting for a much higher proportion of suicides, underscores the importance of tailored interventions and support systems for this vulnerable group.
 Additionally, the age distribution of suicides, with the highest rates observed in the 35-54 age group, and the emergence of the Silent generation as a high-risk demographic when considering rates per 100k population, further emphasize the need for targeted strategies and resources. While economic factors like employment, inflation, and income levels exhibit some correlations with suicide rates, their impact appears relatively weak compared to demographic variables. Nonetheless, addressing economic instability and ensuring access to mental health resources, particularly in low-income communities, could contribute to overall suicide prevention efforts.
